@@ -22,6 +22,7 @@ _______________________________________________________________
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8BC0D0?logo=ejs&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
